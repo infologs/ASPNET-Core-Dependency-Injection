@@ -1,0 +1,6 @@
+﻿<p>As you can see above, the <code>CreateDefaultBuilder</code> method creates an instance of <code>WebHostBuilder</code> and sets up Kestrel, content root directory, IIS integration which is same as <a href="tutorials/16/aspnet-core/home/">ASP.NET Core</a> 1.x <code>Main()</code> method.</p>
+<p>
+    It also calls <code>ConfigureAppConfiguration()</code> to load configurations from appsettings.json files, environment variables and user secrets.
+    The <code>ConfigureLogging()</code> method setup logging to console and debug window.
+</p>
+<p>Thus, Program.cs in <a href="tutorials/16/aspnet-core/home/">ASP.NET Core</a> 2.x makes it easy for us to setup a web host.</p>
