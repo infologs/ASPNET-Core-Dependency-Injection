@@ -1,6 +1,9 @@
 # ASPNET Core Dependency Injection
 This sample will give you an idea about the ASP.NET Core Dependency Injection
 
+Read the full article on the below URL and follow the website https://www.infologs.in/ for more articles.
+https://www.infologs.in/tutorials/16/aspnet-core/87/aspnet-core-dependancy-injection/
+
 ASP.NET Core Tutorial Video Series: 
 https://www.youtube.com/watch?v=B8Jn1jp_bdo&list=PLIwSqSAJUgD59jz8gOV0O2KtLlqIWW503
 
